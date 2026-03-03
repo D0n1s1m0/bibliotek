@@ -1,0 +1,27 @@
+# Visual Studio временные файлы
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Результаты сборки
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Базы данных
+*.mdf
+*.ldf
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
+*.temp
